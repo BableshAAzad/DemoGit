@@ -1,9 +1,7 @@
 demo added
 dev branch added
-<<<<<<< HEAD
 test branch added
 conflicsjshd sdjhhi
 name adhhhd
-=======
 test branch added
->>>>>>> parent of 52c0b44 (test c2)
+
